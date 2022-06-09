@@ -5,4 +5,4 @@
 Criando meu primeiro repositório no GitHub para compartilhar seu progresso no bootcamp mobile Santander. 
 
 ## Links úteis
-[Sintaxe Básica Markdown] (https://www.markdownguide.org/basic-syntaxe)
+[Sintaxe Básica Markdown] (https://ajuda.gitlab.io/guia-rapido/markdown/markdown/)
