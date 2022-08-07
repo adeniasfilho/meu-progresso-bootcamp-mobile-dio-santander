@@ -16,7 +16,6 @@ Injeção de dependência é a técnica que delega a responsabilidade de inicial
 [Adicionando Koin ao projeto/Configurando a Instância DAO] (https://medium.com/collabcode/inje%C3%A7%C3%A3o-de-depend%C3%AAncia-no-kotlin-com-koin-4d093f80cb63)
 
 ## Books Jetpack
-## Links úteis
 [Books Jetpack] (https://github.com/nglauber/books_jetpack)
 
 
