@@ -6,3 +6,9 @@ Criando meu primeiro repositório no GitHub para compartilhar meu progresso no b
 ## Links úteis
 [Sintaxe Básica Markdown] (https://ajuda.gitlab.io/guia-rapido/markdown/markdown/)
 
+# Injeção de Dependências
+O que é dependência?
+Dependências são objetos que uma classe precisa para realizar os comportamentos esperados, portanto, se uma classe acessa o banco de dados e usa um DAO pra isso, o DAO é uma dependência da classe.
+O que é injeção de dependência?
+Injeção de dependência é a técnica que delega a responsabilidade de inicializar dependências para o software. Por exemplo, ao invés instanciarmos as dependências em algum momento do código, o próprio framework de injeção de dependência realiza esses passos pra gente.
+
