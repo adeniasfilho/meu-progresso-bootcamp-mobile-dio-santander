@@ -8,12 +8,22 @@ import java.util.*
 
 fun main(args: Array<String>) {
     var reader = Scanner(System.`in`)
+
+    System.out.print("Insira a primeira nota: ")
     var a = reader.nextDouble()
+    System.out.printf("%ninsirindo %.2f primeira nota%n%n",a)
+
+    System.out.print("Insira a segunda nota: ")
     var b = reader.nextDouble()
+    System.out.printf("%ninsirindo %.2f segunda nota%n%n", b)
+
     var weightA = 3.5
     var weightB = 7.5
     var totalWeight = 11
-    var m = (a * weightA + b * weightB)/totalWeight
-    var r = "%.5f".format(m)
-    println("MEDIA = ${r}")
+
+    var m = (a * 3.5 + b  * weightB) / totalWeight
+
+    var r = "%.2f".format( m )
+
+    println("A MEDIA DO ALUNO SERÁ = $r")
 }
